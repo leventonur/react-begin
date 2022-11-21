@@ -1,2 +1,2 @@
-React Başlanğıç Projemdir. 
-Bu proje React için başlanğıç adına yapılan kodlardır. 
+React Başlangıç Projemdir. 
+Bu proje React için başlangıç adına yapılan kodlardan ibarettir.
